@@ -1,1 +1,1 @@
-# leaflet-challenge
+In this project, we created an interactive map using Leaflet.js and D3.js to visualize USGS earthquake data. The map markers, representing earthquakes, vary in size and color based on the earthquake’s magnitude and depth. We also added a legend for context and handled file organization for resource linking.
